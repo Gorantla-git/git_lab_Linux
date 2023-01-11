@@ -1,0 +1,3 @@
+The “secure” in secure shell comes from the combination of hashing, symmetric encryption, and asymmetric encryption. Together, SSH uses cryptographic primitives to safely connect clients and servers. In the 25 years since its founding, computing power and speeds in accordance with Moore’s Law have necessitated increasingly complicated low-level algorithms. This article will focus on asymmetric keygen algorithms.
+
+As of 2020, the most widely adopted algorithms are RSA, DSA, ECDSA, and EdDSA, but it is RSA and EdDSA that provide the best security and performance.
